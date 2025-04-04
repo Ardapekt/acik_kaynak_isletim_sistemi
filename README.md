@@ -1,5 +1,5 @@
-# Proje Adı
- Bu proje, açık kaynak işletim sistemi için bir rehberdir.
+# Başlangıç
+  Açık kaynak işletim sistemi için bir rehberdir.
 
          Açık Kaynak İşletim Sistemi Önerileri : 
          1.Ubuntu: Kullanıcı dostu ve güçlü topluluk desteğiyle popülerdir.
